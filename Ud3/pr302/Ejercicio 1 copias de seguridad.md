@@ -19,7 +19,8 @@ para copiar el archivo backup.sql del contenedor al anfitrion.
 # Paso 8
 Uso el comando exit
 # Paso 9
-Uso el comando psql -U odoo odoo < backup.sql y arroja el resultado
+Uso el comando psql -U odoo odoo < backup.sql y arroja el resultado:
+
 SET
 SET
 SET
